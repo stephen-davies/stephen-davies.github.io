@@ -1,3 +1,14 @@
+---
+layout: post
+title: Machine Learning Techniques on Hotel NLP Data
+subtitle: Basic Machine Learning Technique Demonstration
+gh-repo: n/a
+gh-badge: [star, fork, follow]
+tags: [python, sklearn, machine learning]
+comments: true
+---
+
+
 ```python
 #imports
 import pandas as pd
